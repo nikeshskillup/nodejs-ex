@@ -1,6 +1,6 @@
 'use strict';
 
-/*
+/*  
  *
  *  Copyright 2016-2017 Red Hat, Inc, and individual contributors.
  *
